@@ -2,3 +2,4 @@ Flask
 twilio
 gunicorn
 python-dotenv
+Werkzeug
