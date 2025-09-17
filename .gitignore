@@ -1,11 +1,6 @@
-# Ignore environment variables file
+uploads/
 .env
-# Ignore SQLite database file
-otpbot.db
-# Python cache files
 __pycache__/
-*.py[cod]
-# Virtual environment folder
-venv/
-# Logs
-*.log
+*.pyc
+instance/
+*.db
